@@ -148,9 +148,3 @@ Contributions, issues, and feature requests are welcome — especially around th
 ## 👤 Author
 
 **Pranav** — [@pranavoffi](https://github.com/pranavoffi)
-
-## 📄 License
-
-The original code in this repository (`main.py`, `ui/`, `models/gan_model.py`) is provided as-is; add a `LICENSE` file (e.g. MIT) if you'd like to specify usage terms for it.
-
-The vendored `stylegan2-ada-pytorch/` directory and the StyleGAN2-ADA architecture code under `models/dnnlib/`, `models/torch_utils/`, and `models/training/` are © NVIDIA Corporation and are distributed under the **NVIDIA Source Code License**, which permits non-commercial use only. See `stylegan2-ada-pytorch/LICENSE.txt` for the full terms before using this project commercially or redistributing pretrained checkpoints.
